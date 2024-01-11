@@ -4,8 +4,6 @@
  *  DATE CREATED: January 14, 2024
  *  DESC: Computer Network Data Transmission Checking
  */
-
- import java.util.Arrays;
  
  public class MainProgram {
      public static void main(String[] args) {
